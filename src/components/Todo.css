@@ -1,0 +1,13 @@
+.item {
+    cursor: pointer;
+  }
+
+.item.completed {
+    text-decoration: line-through;
+  }
+
+body {
+  background-image: linear-gradient(rgb(245,133,63), rgb(255,205,188));
+  background-repeat: no-repeat;
+  height:100vh;
+}
